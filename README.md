@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I'm Meryemnur
 
-<!--
-**MeryemnurCoban/MeryemnurCoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior developer candidate who is actively learning and improving herself in the software development field.
+I currently focus on C# desktop application development and backend-oriented projects, while building a solid foundation in application logic and database usage.
 
-Here are some ideas to get you started:
+My goal is not just to write code, but to understand how applications work behind the scenes and to improve step by step through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Tech Stack
+
+Technologies I am learning and actively using:
+
+Programming Language: C#
+
+Database: SQL Server
+
+Tools: Visual Studio, Git & GitHub (basic usage)
+
+
+ What I'm Currently Doing
+
+Learning and practicing C# application development fundamentals
+
+Working with SQL Server on database design, querying, and CRUD operations
+
+Using GitHub to store my projects and learn version control basics
+
+Improving myself through small, real-world-oriented projects
+
+
+ Goal
+
+To become a developer who can build
+well-structured, logic-driven, and scalable applications,
+based on a strong foundation in C# and SQL Server.
+
